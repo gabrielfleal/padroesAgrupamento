@@ -1,0 +1,14 @@
+Avicequinone B sensitizes anoikis in human lung cancer cells
+
+Abstract
+Background
+During metastasis, cancer cells require anokis resistant mechanism to survive until reach the distant secondary tissues. As anoikis sensitization may benefit for cancer therapy, this study demonstrated the potential of avicequinone B, a natural furanonaphthoquinone found in mangrove tree (Avicenniaceae) to sensitize anoikis in human lung cancer cells.
+
+Methods
+Anoikis inducing effect was investigated in human lung cancer H460, H292 and H23 cells that were cultured in ultra-low attachment plate with non-cytotoxic concentrations of avicequinone B. Viability of detached cells was evaluated by XTT assay at 0–24 h of incubation time. Soft agar assay was performed to investigate the inhibitory effect of avicequinone B on anchorage-independent growth. The alteration of anoikis regulating molecules including survival and apoptosis proteins were elucidated by western blot analysis.
+
+Results
+Avicequinone B at 4 µM significantly induced anoikis and inhibited proliferation under detachment condition in various human lung cancer cells. The reduction of anti-apoptotic proteins including anti-apoptotic protein B-cell lymphoma 2 (Bcl-2) and myeloid cell leukemia 1 (Mcl-1) associating with the diminution of integrin/focal adhesion kinase (FAK)/Proto-oncogene tyrosine-protein kinase (Src) signals were detected in avicequinone B-treated cells.
+
+Conclusions
+Avicequinone B sensitized anoikis in human lung cancer cells through down-regulation of anti-apoptosis proteins and integrin-mediated survival signaling.

@@ -1,0 +1,5 @@
+4D nucleome Analysis Toolbox: analysis of Hi-C data with abnormal karyotype andtime series capabilities.
+Motivation: The availability of powerful analysis tools will furtherunderstanding of genome organization and its relationship to phenotype indynamical settings.
+Results: The 4D Nucleome Analysis Toolbox (NAT) is a user-friendly and powerfulMATLAB toolbox for time series analysis of genome-wide chromosome conformationcapture (Hi-C) data and gene expression (RNA-seq). NAT can load and normalizedata, define topologically associating domains, analyse translocations, producevisualization, and study time course data. We provide examples that include time series data sets and karyotypically abnormal cell lines demonstrating theflexibility of NAT.
+Availability and implementation:https://github.com/laseaman/4D_Nucleome_Analysis_Toolbox.
+Contact: indikar@umich.edu.

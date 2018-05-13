@@ -1,0 +1,10 @@
+Automatic Identification of High Impact Articles in PubMed to Support Clinical Decision Making
+
+OBJECTIVES: The practice of evidence-based medicine involves integrating the latest best available evidence into patient care decisions. Yet, critical barriers exist for clinicians' retrieval of evidence that is relevant for a particular patient from primary sources such as randomized controlled trials and meta-analyses. To help address those barriers, we investigated machine learning algorithms that find clinical studies with high clinical impact from PubMed®.
+
+METHODS: Our machine learning algorithms use a variety of features including bibliometric features (e.g., citation count), social media attention, journal impact factors, and citation metadata. The algorithms were developed and evaluated with a gold standard composed of 502 high impact clinical studies that are referenced in 11 clinical evidence-based guidelines on the treatment of various diseases. We tested the following hypotheses: (1) our high impact classifier outperforms a state-of-the-art classifier based on citation metadata and citation terms, and PubMed's® relevance sort algorithm; and (2) the performance of our high impact classifier does not decrease significantly after removing proprietary features such as citation count.
+
+RESULTS: The mean top 20 precision of our high impact classifier was 34% versus 11% for the state-of-the-art classifier and 4% for PubMed's® relevance sort (p=0.009); and the performance of our high impact classifier did not decrease significantly after removing proprietary features (mean top 20 precision=34% vs. 36%; p=0.085).
+
+CONCLUSION: The high impact classifier, using features such as bibliometrics, social media attention and MEDLINE® metadata, outperformed previous approaches and is a promising alternative to identifying high impact studies for clinical decision support.
+

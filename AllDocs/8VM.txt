@@ -1,0 +1,7 @@
+ctPath: Demixing Pathway Crosstalk Effect From Transcriptomics Data for Differential Pathway Identification
+
+Abstract
+Identifying differentially expressed pathways (DEPs) plays important roles in understanding tumor etiology and promoting clinical treatment of cancer or other diseases. By assuming gene expression to be a sparse non-negative linear combination of hidden pathway signals, we propose a pathway crosstalk-based transcriptomics data analysis method (ctPath) for identifying differentially expressed pathways. Biologically, pathways of different functions work in concert at the systematic level. The proposed method interrogates the crosstalks between pathways and discovers hidden pathway signals by mapping high-dimensional transcriptomics data into a low-dimensional pathway space. The resulted pathway signals reflect the activity level of pathways after removing pathway crosstalk effect and allow a robust identification of DEPs from inherently complex and noisy transcriptomics data. CtPath can also correct incomplete and inaccurate pathway annotations which frequently occur in public repositories. Experimental results on both simulation data and real-world cancer data demonstrate the superior performance of ctPath over other popular approaches. R code for ctPath is available for non-commercial use at the URL http://micblab.iim.ac.cn/Download/.
+
+
+

@@ -1,0 +1,13 @@
+Mechanisms of human telomerase reverse transcriptase (hTERT) regulation: clinical impacts in cancer
+
+Abstract
+Background
+Limitless self-renewal is one of the hallmarks of cancer and is attained by telomere maintenance, essentially through telomerase (hTERT) activation. Transcriptional regulation of hTERT is believed to play a major role in telomerase activation in human cancers.
+
+Main body
+The dominant interest in telomerase results from its role in cancer. The role of telomeres and telomere maintenance mechanisms is well established as a major driving force in generating chromosomal and genomic instability. Cancer cells have acquired the ability to overcome their fate of senescence via telomere length maintenance mechanisms, mainly by telomerase activation.
+
+hTERT expression is up-regulated in tumors via multiple genetic and epigenetic mechanisms including hTERT amplifications, hTERT structural variants, hTERT promoter mutations and epigenetic modifications through hTERT promoter methylation. Genetic (hTERT promoter mutations) and epigenetic (hTERT promoter methylation and miRNAs) events were shown to have clinical implications in cancers that depend on hTERT activation. Knowing that telomeres are crucial for cellular self-renewal, the mechanisms responsible for telomere maintenance have a crucial role in cancer diseases and might be important oncological biomarkers. Thus, rather than quantifying TERT expression and its correlation with telomerase activation, the discovery and the assessment of the mechanisms responsible for TERT upregulation offers important information that may be used for diagnosis, prognosis, and treatment monitoring in oncology. Furthermore, a better understanding of these mechanisms may promote their translation into effective targeted cancer therapies.
+
+Conclusion
+Herein, we reviewed the underlying mechanisms of hTERT regulation, their role in oncogenesis, and the potential clinical applications in telomerase-dependent cancers.

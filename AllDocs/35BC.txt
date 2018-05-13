@@ -1,0 +1,14 @@
+Mesenchymal stem cells show functional defect and decreased anti-cancer effect after exposure to chemotherapeutic drugs
+
+Abstract
+Background
+Mesenchymal stem cells (MSC) are used for several therapeutic applications to improve the functions of bone, cardiac, nervous tissue as well as to facilitate the repopulation of hematopoietic stem cells. MSC give rise to the non-hematopoietic stromal cells of the bone marrow and are important for the maintenance of normal hematopoiesis. Chemotherapeutic drugs used for treatment of leukemia extensively damage the stromal cells and alter their gene expression profiles.
+
+Methods
+We determined the changes in adipogenic, osteogenic differentiation, phenotypic and gene expression in MSC during treatment with chemotherapeutic drugs cytarabine, daunorubicin and vincristine. We also tested anti-cancer effects of drug treated MSC on leukemia cells.
+
+Results
+Treatment with the chemotherapeutic drugs resulted in functional defects in MSC, leading to reduced proliferation, osteogenic and adipogenic differentiation. The drug treated MSC also showed decreased expression of cell surface receptors, and the changes in proliferation, phenotype and differentiation defect was partially reversible after withdrawing the drugs from the cells. The drug treated MSC showed increased expression of cytokines, IL6, FGF2 and TNFA but reduced levels of differentiation markers SOX9 and ACTC1. Drug treated MSC also contributed to reduced anti-cancer effects in leukemia cells.
+
+Conclusions
+Chemotherapeutic drug treatment altered the phenotype, osteogenic and adipogenic differentiation potential of MSC and modified the gene expression profile of the cells to render them more chemoprotective of the leukemic cells. Thus, additional therapeutic efforts to target the stromal cell population will help in preventing chemoresistance, disease relapse in leukemia and to maintain a healthy bone marrow stroma.

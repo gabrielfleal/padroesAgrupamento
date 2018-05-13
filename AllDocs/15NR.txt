@@ -1,0 +1,6 @@
+Sensitive and specific post-call filtering of genetic variants in xenograft andprimary tumors.
+Motivation: Tumor genome sequencing offers great promise for guiding research andtherapy, but spurious variant calls can arise from multiple sources. Mousecontamination can generate many spurious calls when sequencing patient-derivedxenografts (PDXs). Paralogous genome sequences can also generate spurious callswhen sequencing any tumor. We developed a BLAST-based algorithm, MAPEX, toidentify and filter out spurious calls from both these sources.
+Results: When calling variants from xenografts, MAPEX has similar sensitivity andspecificity to more complex algorithms. When applied to any tumor, MAPEX alsoautomatically flags calls that potentially arise from paralogous sequences. Ourimplementation, mapexr, runs quickly and easily on a desktop computer. MAPEX isthus a useful addition to almost any pipeline for calling genetic variants intumors.
+Availability: The mapexr package for R is available athttps://github.com/bmannakee/mapexr under the MIT license.
+Contact: mannakee@email.arizona.edu, rgutenk@email.arizona.edu,eknudsen@email.arizona.edu.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

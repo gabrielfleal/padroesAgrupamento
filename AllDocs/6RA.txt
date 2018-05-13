@@ -1,0 +1,4 @@
+Use of Interactive Games in Healthcare
+
+Abstract
+Interactive health games (IHG) are fun, experimental, challenging as well as powerful tools that have the potential to change the patients’ behaviour, attitudes and improve their health. IHG involve well-designed intent challenges and follow roles moving toward a goal. In the last decade, a wide variety of IHG has been developed. The classification of these games is based on game subject, health subject and player subject. Along with the potential future utilization of IHG, there are limitations to a wider application such as the disparity in the player’s cognitive abilities and the need to identify the kinds of learning and training support.

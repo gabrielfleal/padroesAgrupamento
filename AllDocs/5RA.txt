@@ -1,0 +1,12 @@
+Facilitators of mHealth Implementation Program
+
+Abstract
+Healthcare applications of mobile phones are steadily gaining popularity over last few years. With the increasing penetration of mobile networks in remote rural villages in India, mobile phones are becoming an important tool for enhancing doctor-patient communication. The mobile technology is increasingly enhancing functionalities of handheld devices, smart phones and PDAs, which are potentially replacing the use of PC, based alternatives while supporting mobility needs of patients and medical practitioners.
+
+The study looks at the facilitators of them Health program (mobile based reporting by Front Line Workers in public health) in Saharsa district of Bihar state in India. Data was collected in July 2017. 109 FLWs were contacted for the study.
+
+The results tell us that education plays an important role in mobile based reporting system. Age of the respondents does not relate to the mobile phone based reporting system. The willingness to use the mobile phone for reporting is at 80% taken overall. Across age group the worry regarding the lack of hard copy of data is very less and stood at overall 40% level. Respondents from all age group indicated that the timing of the reporting was appropriate and it stood at 85%.
+
+The logistic regression tells us that appropriateness of the reporting time increases by 4.1 times, when the FLW receives the needed service from the mobile platform. Effectiveness of the work of the FLW would decrease by 89% if she is worried about the lack of hard copy of the data. Willingness to continue the mobile phone for reporting would increase by 4.34 times, for those FLW, who are recommending the program to continue. Appropriateness of the reporting time increases by 5.26 times, when the FLW recommends continuing the program.
+
+The mobile based reporting system generates the real time data. The same can be used to create dashboards for the Sustainable Development Goals (SDG). The tracking can be created at state or national level. Even the district level dashboards can be created. The data from the front line workers will get used on real time basis. The action on certain aspect of the program can be very quick.

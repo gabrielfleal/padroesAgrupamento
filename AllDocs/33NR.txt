@@ -1,0 +1,4 @@
+SMLocalizer, a GPU accelerated ImageJ plugin for single molecule localizationmicroscopy.
+Summary: SMLocalizer combines the availability of ImageJ with the power of GPUprocessing for fast and accurate analysis of single molecule localizationmicroscopy data. Analysis of 2D and 3D data in multiple channels is supported.Availability and implementation: Plugin freely available for Fiji and ImageJ2.0through https://sourceforge.net/projects/smlocalizer/. Plugin also available for continuous updates through ImageJ update system, addhttp://sites.imagej.net/Cellular-Biophysics-KTH/ as update site in ImageJ. Javaand CUDA source code freely available on the web athttps://github.com/KristofferBernhem/SMlocalizer.
+Contact: brismar@kth.se.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

@@ -1,0 +1,14 @@
+Development and Classification of a Robust Inventory of Near Real-Time Outcome Measurements for Assessing Information Technology Interventions in Health Care
+
+OBJECTIVE: To develop and classify an inventory of near real-time outcome measures for assessing information technology (IT) interventions in health care and assess their relevance as perceived by experts in the field.
+
+MATERIALS AND METHODS: To verify the robustness and coverage of a previously published inventory of measures and taxonomy, we conducted semi-structured interviews with clinical and administrative leaders from a large care delivery system to collect suggestions of outcome measures that can be calculated with data available in electronic format for near real-time monitoring of EHR implementations. We combined these measures with the most commonly reported in the literature. We then conducted two online surveys with subject-matter experts to collect their perceptions of the relevance of the measures, and identify other potentially relevant measures.
+
+RESULTS: With input from experienced health care leaders and informaticists, we developed an inventory of 102 outcome measures. These measures were classified into a taxonomy of commonly used measures around the categories of quality, productivity, and safety. Safety measures were rated as most relevant by subject-matter experts, especially those measuring medication processes. Clinician satisfaction and measures assessing mean time to complete tasks and time spent on electronic documentation were also rated as highly relevant.
+
+DISCUSSION: By expanding the coverage of our previously published inventory and taxonomy, we expect to help providers, health IT vendors and researchers to more effectively and consistently monitor the impact of EHR implementations in near real-time, and report more standardized outcomes in future studies. We identified several measures not commonly assessed by previous studies of IT implementations, especially those of safety and productivity, which deserve more attention from the broader informatics community.
+
+CONCLUSION: Our inventory of measures and taxonomy will help researchers identify gaps in their measurement approaches and report more standardized measurements of IT interventions that could be shared among researchers, hopefully facilitating comparison across future studies and increasing our understanding of the impact of IT interventions in health care.
+
+
+

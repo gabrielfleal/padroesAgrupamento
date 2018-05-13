@@ -1,0 +1,8 @@
+Elucidating High-Dimensional Cancer Hallmark Annotation via Enriched Ontology
+
+MOTIVATION: Cancer hallmark annotation is a promising technique that could discover novel knowledge about cancer from the biomedical literature. The automated annotation of cancer hallmarks could reveal relevant cancer transformation processes in the literature or extract the articles that correspond to the cancer hallmark of interest. It acts as a complementary approach that can retrieve knowledge from massive text information, advancing numerous focused studies in cancer research. Nonetheless, the high-dimensional nature of cancer hallmark annotation imposes a unique challenge.
+
+RESULTS: To address the curse of dimensionality, we compared multiple cancer hallmark annotation methods on 1580 PubMed abstracts. Based on the insights, a novel approach, UDT-RF, which makes use of ontological features is proposed. It expands the feature space via the Medical Subject Headings (MeSH) ontology graph and utilizes novel feature selections for elucidating the high-dimensional cancer hallmark annotation space. To demonstrate its effectiveness, state-of-the-art methods are compared and evaluated by a multitude of performance metrics, revealing the full performance spectrum on the full set of cancer hallmarks. Several case studies are conducted, demonstrating how the proposed approach could reveal novel insights into cancers.
+
+AVAILABILITY: https://github.com/cskyan/chmannot.
+

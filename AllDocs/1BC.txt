@@ -1,0 +1,14 @@
+Cells responsible for liver mass regeneration in rats with 2-acetylaminofluorene/partial hepatectomy injury
+
+Abstract
+Background
+Whether hepatic progenitor cells (HPCs)/oval cells regenerate liver mass upon chronic liver injury is controversial in mice and has not been conclusively proven in humans and rats. In this study, we examined which cell type—hepatocytes or oval cells—mediates liver regeneration in the classic rat 2-acetylaminofluorene (AAF)/partial hepatectomy (PH) injury where AAF reversibly blocks hepatocyte proliferation, thereby inducing oval cell expansion after the regenerative stimulus of PH.
+
+Methods
+We employed lineage tracing of dipeptidyl peptidase IV (DPPIV, a hepatocyte canalicular enzyme)-positive hepatocytes by subjecting rats with DPPIV-chimeric livers to AAF/PH, AAF/PH/AAF (continuous AAF after AAF/PH to nonselectively inhibit regenerating hepatocytes), or AAF/PH/retrorsine injury (2-dose retrorsine after AAF/PH to specifically and irreversibly block existing hepatocytes); through these methods, we determined hepatocyte contribution to liver regeneration. To determine the oval cell contribution to hepatocyte regeneration, we performed DPPIV(+) oval cell transplantation combined with AAF/PH injury or AAF/PH/retrorsine injury in DPPIV-deficient rats to track the fate of DPPIV(+) oval cells.
+
+Results
+DPPIV-chimeric livers demonstrated typical oval cell activation upon AAF/PH injury. After cessation of AAF, DPPIV(+) hepatocytes underwent extensive proliferation to regenerate the liver mass, whereas oval cells underwent hepatocyte differentiation. Upon AAF/PH/AAF injury where hepatocyte proliferation was inhibited by continuous AAF treatment following AAF/PH, oval cells extensively expanded in an undifferentiated state but did not produce hepatocytes. By substituting retrorsine for AAF administration following AAF/PH (AAF/PH/retrorsine), oval cells regenerated large-scale hepatocytes.
+
+Conclusions
+Hepatocyte self-replication provides the majority of hepatocyte regeneration, with supplementary contribution from oval cells in rats under AAF/PH injury. Oval cells expand and maintain in an undifferentiated state upon continuously nonselective liver injury, whereas they can significantly regenerate hepatocytes in a noncompetitive environment.

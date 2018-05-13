@@ -1,0 +1,14 @@
+Molecular subtyping of nasopharyngeal carcinoma (NPC) and a microRNA-based prognostic model for distant metastasis
+
+Abstract
+Background
+Nasopharyngeal carcinoma (NPC) is a highly invasive and metastatic cancer, with diverse molecular characteristics and clinical outcomes. This study aims to dissect the molecular heterogeneity of NPC, followed by the construction of a microRNA (miRNA)-based prognostic model for prediction of distant metastasis.
+
+Methods
+We retrieved two NPC datasets: GSE32960 and GSE70970 as training and validation cohorts, respectively. Consensus clustering was employed for cluster discovery, and support vector machine was used to build a classifier. Finally, Cox regression analysis was applied to constructing a prognostic model for predicting risk of distant metastasis.
+
+Results
+Three NPC subtypes (immunogenic, classical and mesenchymal) were identified that are molecularly distinct and clinically relevant, of which mesenchymal subtype (~?36%) is associated with poor prognosis, characterized by suppressing tumor suppressor miRNAs and the activation of epithelial-­mesenchymal transition. Out of the 25 most differentially expressed miRNAs in mesenchymal subtype, miR-142, miR-26a, miR-141 and let-7i have significant prognostic power (P?<?0.05).
+
+Conclusions
+We proposed for the first time that NPC can be stratified into three subtypes. Using a panel of 4 miRNAs, we established a prognostic model that can robustly stratify NPC patients into high- and low- risk groups of distant metastasis.

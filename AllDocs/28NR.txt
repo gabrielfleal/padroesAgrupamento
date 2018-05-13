@@ -1,0 +1,4 @@
+PySCeSToolbox: a collection of metabolic pathway analysis tools.Summary: PySCeSToolbox is an extension to the Python Simulator for CellularSystems (PySCeS) that includes tools for performing generalized supply-demandanalysis, symbolicmetabolic control analysis, and a framework for investigating the kinetic and thermodynamic aspects of enzyme-catalyzed reactions. Each tooladdresses a different aspect of metabolic behaviour, control, and regulation; thetools complement each other and can be used in conjunction to better understandhigher level system behaviour.
+Availability and implementation: PySCeSToolbox is available on Linux, Mac OS Xand Windows. It is licensed under the BSD 3-clause licence. Code, setup instructions and a link to documentation can be found at https://github.com/PySCeS/PyscesToolbox.
+Contact: jr@sun.ac.za.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

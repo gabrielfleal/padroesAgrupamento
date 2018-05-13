@@ -1,0 +1,11 @@
+Long non-coding RNA MIAT in development and disease: a new player in an old game
+
+Abstract
+Background
+Long non-coding RNAs (lncRNAs), which are a portion of non-protein-coding RNAs (ncRNAs), have manifested a paramount role in the pathophysiology of human diseases, particularly in pathogenesis and progression of disease.
+
+Main body of the abstract
+Myocardial infarction associated transcript (MIAT), which was recently found to demonstrate aberrant expression in various diseases, such as myocardial infarction, schizophrenia, ischemic stroke, diabetic complications, age-related cataract and cancers, is a novel disease-related lncRNA. This work summarize current evidence regarding the biological functions and underlying mechanisms of lncRNA MIAT during disease development.
+
+Short conclusion
+LncRNA MIAT likely represents a feasible cancer biomarker or therapeutic target.

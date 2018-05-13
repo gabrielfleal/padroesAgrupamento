@@ -1,0 +1,7 @@
+Development of Simulation Optimization Methods for Solving Patient Referral Problems in the Hospital-Collaboration Environment
+
+Abstract
+This research studied a patient referral problem among multiple cooperative hospitals for sharing imaging services' referrals. The proposed problem consisted of many types of patients and the uncertainty associated with the number of patients of each type, patients' arrival time, and patients' medical operation time, leading to a difficulty in finding solutions due to the uncertain environment. This research used system simulation to construct a model and develop a simulation optimization method, combining the heuristic algorithm (patient referral mechanism) with the particle swarm optimization (PSO) method, to determine a better way to refer patients from one hospital (referring hospital) to another (recipient hospital) to receive certain imaging services. After the simulated model was verified and validated, three patient referral mechanisms to dispatch referring patients to the appropriate recipient hospitals were proposed. Based on the numerical results, the findings showed that Mechanism 2, transferring patients to the hospital with the shortest waiting time, had good performance in both scenarios: allowing patient referrals among all hospitals and limiting the patients' waiting time. Finally, this study presents the conclusions and some directions for future research.
+
+
+

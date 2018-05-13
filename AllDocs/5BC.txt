@@ -1,0 +1,4 @@
+Toll-like receptors in lupus nephritis
+
+Abstract
+The pathogenesis of systemic autoimmune diseases such as systemic lupus erythematosus (SLE) is based on the loss of self-tolerance against ubiquitous autoantigens involving all mechanisms of adaptive immunity. However, data accumulating over the last decade imply an important role also for numerous elements of innate immunity, namely the Toll-like receptors in the pathogenesis of SLE. Here we discuss their role in the most common organ complication of SLE, i.e. lupus nephritis. We summarize experimental and clinical data on the expression and functional contribution of the Toll-like receptors in immune complex glomerulonephritis, and intrarenal inflammation. Based on these discoveries Toll-like receptors are evolving as therapeutic targets for the treatment of SLE and lupus nephritis.

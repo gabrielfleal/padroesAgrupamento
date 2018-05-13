@@ -1,0 +1,14 @@
+99mTc-HYNIC-(tricine/EDDA)-FROP peptide for MCF-7 breast tumor targeting and imaging
+
+Abstract
+Background
+Breast cancer is the most common malignancy among women in the world. Development of novel tumor-specific radiopharmaceuticals for early breast tumor diagnosis is highly desirable. In this study we developed 99mTc-HYNIC-(tricine/EDDA)-Lys-FROP peptide with the ability of specific binding to MCF-7 breast tumor.
+
+Methods
+The FROP-1 peptide was conjugated with the bifunctional chelator hydrazinonicotinamide (HYNIC) and labeled with 99mTc using tricine/EDDA co-ligand. The cellular specific binding of 99mTc-HYNIC-FROP was evaluated on different cell lines as well as with blocking experiment on MCF-7 (human breast adenocarcinoma). The tumor targeting and imaging of this labeled peptide were performed on MCF-7 tumor bearing mice.
+
+Results
+Radiochemical purity for 99mTc-HYNIC-(tricine/EDDA)-FROP was 99% which was determined with ITLC method. This radiolabeled peptide showed high stability in normal saline and serum about 98% which was monitored with HPLC method. In saturation binding experiments, the binding constant (Kd) to MCF-7 cells was determined to be 158 nM. Biodistribution results revealed that the 99mTc-HYNIC-FROP was mainly exerted from urinary route. The maximum tumor uptake was found after 30 min post injection (p.i.); however maximum tumor/muscle ratio was seen at 15 min p.i. The tumor uptake of this labeled peptide was specific and blocked by co-injection of excess FROP. According to the planar gamma imaging result, tumor was clearly visible due to the tumor uptake of 99mTc-HYNIC-(tricine/EDDA)-FROP in mouse after 15 min p.i.
+
+Conclusions
+The 99mTc-HYNIC-(tricine/EDDA)-FROP is considered a promising probe with high specific binding to MCF-7 breast cancer cells.

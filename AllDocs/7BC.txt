@@ -1,0 +1,11 @@
+Flagellin-fused protein targeting M2e and HA2 induces potent humoral and T-cell responses and protects mice against various influenza viruses a subtypes
+
+Abstract
+Background
+Current influenza vaccines are mainly strain-specific and have limited efficacy in preventing new, potentially pandemic, influenza strains. Efficient control of influenza A infection can potentially be achieved through the development of broad-spectrum vaccines based on conserved antigens. A current trend in the design of universal flu vaccines is the construction of recombinant proteins based on combinations of various conserved epitopes of viral proteins (M1, M2, HA2, NP). In this study, we compared the immunogenicity and protective action of two recombinant proteins which feature different designs and which target different antigens.
+
+Results
+Balb/c mice were immunized subcutaneously with Flg-HA2–2-4M2ehs or FlgSh-HA2–2-4M2ehs; these constructs differ in the location of hemagglutinin’s HA2–2(76–130) insertion into flagellin (FliC). The humoral and T-cell immune responses to these constructs were evaluated. The simultaneous expression of different M2e and HA2–2(76–130) in recombinant protein form induces a strong M2e-specific IgG response and CD4+/ CD8+ T-cell response. The insertion of HA2–2(76–130) into the hypervariable domain of flagellin greatly increases antigen-specific T-cell response, as evidenced by the formation of multi-cytokine-secreting CD4+, CD8+ T-cells, Tem, and Tcm. Both proteins provide full protection from lethal challenge with A/H3N2 and A/H7N9.
+
+Conclusion
+Our results show that highly conserved M2e and HA2–2(76–130) can be used as important targets for the development of universal flu vaccines. The location of the HA2–2(76–130) peptide’s insertion into the hypervariable domain of flagellin had a significant effect on the T-cell response to influenza antigens, as seen by forming of multi-cytokine-secreting CD4+ and CD8+ T-cells.

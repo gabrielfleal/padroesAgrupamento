@@ -1,0 +1,14 @@
+Unique depot formed by an oil based vaccine facilitates active antigen uptake and provides effective tumour control
+
+Abstract
+Background
+Oil emulsions are commonly used as vaccine delivery platforms to facilitate slow release of antigen by forming a depot at the injection site. Antigen is trapped in the aqueous phase and as the emulsion degrades in vivo the antigen is passively released. DepoVax™ is a unique oil based delivery system that directly suspends the vaccine components in the oil diluent that forces immune cells to actively take up components from the formulation in the absence of passive release. The aim of this study was to use magnetic resonance imaging (MRI) with additional biological markers to evaluate and understand differences in clearance between several different delivery systems used in peptide-based cancer vaccines.
+
+Methods
+C57BL/6 mice were implanted with a cervical cancer model and vaccinated 5 days post-implant with either DepoVax (DPX), a water-in-oil emulsion (w/o), a squalene oil-in-water emulsion (squal o/w) or a saponin/liposome emulsion (sap/lip) containing iron oxide-labeled targeted antigen. MRI was then used to monitor antigen clearance, the site of injection, tumour and inguinal lymph node volumes and other gross anatomical changes. HLA-A2 transgenic mice were also vaccinated to evaluate immune responses of human directed peptides.
+
+Results
+We demonstrated differences in antigen clearance between DPX and w/o both in regard to how quickly the antigen was cleared and the pattern in which it was cleared. We also found differences in lymph node responses between DPX and both squal o/w and sap/lip.
+
+Conclusions
+These studies underline the unique mechanism of action of this clinical stage vaccine delivery system.

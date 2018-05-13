@@ -1,0 +1,4 @@
+CRISPR-RT: a web application for designing CRISPR-C2c2 crRNA with improved targetspecificity.
+Summary: CRISPR-Cas systems have been successfully applied in genome editing.Recently, the CRISPR-C2c2 system has been reported as a tool for RNA editing.Here we describe CRISPR-RT (CRISPR RNA-Targeting), the first web application tohelp biologists design crRNAs with improved target specificity for theCRISPR-C2c2 system. CRISPR-RT allows users to set up a wide range of parameters, making it highly flexible for current and future research in CRISPR-based RNAediting. CRISPR-RT covers major model organisms and can be easily extended tocover other species. CRISPR-RT will empower researchers in RNA editing.Availability and implementation: Freely available athttp://bioinfolab.miamioh.edu/CRISPR-RT.
+Contact: liangc@miamioh.edu.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

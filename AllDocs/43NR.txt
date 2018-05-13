@@ -1,0 +1,4 @@
+NGS-pipe: a flexible, easily extendable and highly configurable framework for NGSanalysis.
+Motivation: Next-generation sequencing is now an established method in genomics, and massive amounts of sequencing data are being generated on a regular basis.Analysis of the sequencing data is typically performed by lab-specific in-housesolutions, but the agreement of results from different facilities is often small.General standards for quality control, reproducibility and documentation aremissing.
+Results: We developed NGS-pipe, a flexible, transparent and easy-to-use frameworkfor the design of pipelines to analyze whole-exome, whole-genome andtranscriptome sequencing data. NGS-pipe facilitates the harmonization of genomic data analysis by supporting quality control, documentation, reproducibility,parallelization and easy adaptation to other NGS experiments.Availability and implementation: https://github.com/cbg-ethz/NGS-pipe.
+Contact: niko.beerenwinkel@bsse.ethz.ch.

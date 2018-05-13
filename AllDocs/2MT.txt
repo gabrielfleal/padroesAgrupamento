@@ -1,0 +1,4 @@
+Bioinformatics for comprehensive finding and analysis of glycosyltransferases?
+Abstract
+Bioinformatics is a very powerful tool in the field of glycoproteomics as well as genomics and proteomics. As a part of the Glycogene Project (GG project), we have developed a novel bioinformatics system for the comprehensive identification and in silico cloning of human glycogenes. Using our system, a total of 105 candidate human glycogenes were identified and then engineered for heterologous expression. Of these candidates, 38 recombinant proteins were successfully identified for their enzyme activity and substrate specificity. We also classified 47 out of 60 carbohydrate-active enzyme glycosyltransferase families into 4 superfamilies using the profile Hidden Markov Model method. On the basis of our classification and the relationship between glycosylation pathways and superfamilies, we propose the evolution of glycosyltransferases.
+

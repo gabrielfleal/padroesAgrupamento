@@ -1,0 +1,11 @@
+Cancer stem cells as key drivers of tumour progression
+
+Abstract
+Background
+Cancer stem cells (CSCs) are subpopulations of cancer cells sharing similar characteristics as normal stem or progenitor cells such as self-renewal ability and multi-lineage differentiation to drive tumour growth and heterogeneity. Throughout the cancer progression, CSC can further be induced from differentiated cancer cells via the adaptation and cross-talks with the tumour microenvironment as well as a response from therapeutic pressures, therefore contributes to their heterogeneous phenotypes. Challengingly, conventional cancer treatments target the bulk of the tumour and are unable to target CSCs due to their highly resistance nature, leading to metastasis and tumour recurrence.
+
+Main body
+This review highlights the roles of CSCs in tumour initiation, progression and metastasis with a focus on the cellular and molecular regulators that influence their phenotypical changes and behaviours in the different stages of cancer progression. We delineate the cross-talks between CSCs with the tumour microenvironment that support their intrinsic properties including survival, stemness, quiescence and their cellular and molecular adaptation in response to therapeutic pressure. An insight into the distinct roles of CSCs in promoting angiogenesis and metastasis has been captured based on in vitro and in vivo evidences.
+
+Conclusion
+Given dynamic cellular events along the cancer progression and contributions of resistance nature by CSCs, understanding their molecular and cellular regulatory mechanism in a heterogeneous nature, provides significant cornerstone for the development of CSC-specific therapeutics.

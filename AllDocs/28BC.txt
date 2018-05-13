@@ -1,0 +1,14 @@
+Discovery and cellular stress pathway analysis of 1,4-naphthoquinone derivatives with novel, highly potent broad-spectrum anticancer activity
+
+Abstract
+Background
+Chemotherapy and targeted therapies have made important strides in cancer treatment yet they often fail and new therapies are still needed. Here, we employed a phenotypic screen to identify and analyze the mechanism of action of novel small molecules that interfere with critical pathways involved in tumor cell growth, using chemoresistant A375 melanoma cells as a model.
+
+Methods
+Cell culture studies were performed in ATCC-recommended media. Compounds, and compound libraries were obtained from Boston University or purchased commercially. Effects on A375 cell viability, proliferation and morphology were determined by Celigo Image Cytometer and viability staining. Anticancer activity of the lead compound was tested in a xenograft nude mouse model. Signaling and cell death pathways were analyzed by SDS-PAGE and immunoblotting, and/or fluorescence microscopy.
+
+Results
+After evaluating 4477 compounds, one hit compound CB533 was identified that caused significant reduction of A375 cell growth. CB533 is an unexplored 1,4-naphthoquinone (NQ) derivative which unlike 1,4-NQ, induced rapid cell death without generating reactive oxygen species (ROS). Structure-activity relationship analysis showed that a pyrrolidine in the 1,4-NQ nucleus in lead compound Pyr-1 yielded optimal activity. CB533 and Pyr-1 had growth-suppressing effects on a large variety of chemotherapy-resistant cancer cell lines in the nano to picomolar range. Pyr-1 also significantly reduced growth of MDA-MB-231 breast cancer cells in nude mice. Pyr-1 rapidly induced activation of major stress pathways and autophagy, which was efficiently blocked by ERK, and somewhat by PI3K inhibitors.
+
+Conclusion
+CB533 and lead Pyr-1 represent novel broad-spectrum, anticancer compounds that are up to 1000-fold more potent than plumbagin, a natural 1,4-NQ with known anticancer activity. Since the growth suppression activities of CB533 and Pyr-1 are unaffected by the chemotherapy resistance of cancer cells, these compounds have promising therapeutic potential. The pyrrolidine in the 3 position of the 1,4-NQ nucleus of Pyr-1 is a critical component of the pharmacophore. Pyr-1-induced cellular stress was mediated by an ERK, and to a lesser extent by an AKT-dependent pathway without involving apoptosis. Our data suggest that Pyr-1 derives its greatly enhanced antitumor activity via mimicking ROS-induced stress signaling without generating ROS, and likely committing cells to autophagy.
