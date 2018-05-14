@@ -1,0 +1,16 @@
+The Effect of Epidural Morphine-Bupivacaine Combined with a Low Dose of Naloxone on Respiratory Function and Analgesia in Patients with Chronic Low-Back PainAbstract
+Context: Hypoventilation and apnea after epidural morphine is a serious concern after surgery and an issue in chronic pain. A low dose of naloxone added to morphine can prevent this complication.
+
+Objective: To determine that the low dose of naloxone added to epidural morphine analgesic could change the effect of this opioid in chronic low back pain. In addition, we evaluate its effect on respiratory function and patient satisfaction.
+
+Patients: Twenty-seven adults suffering from chronic low back pain (LBP) who were candidates for epidural injection treatment.
+
+Intervention: This was a randomized double-blind, uniform crossover, controlled clinical trial. The patients were treated with mixture of morphine-bupivacaine and mixture of morphine-bupivacaine-naloxone.
+
+Main outcome measure: The primary goals were to evaluate pain intensity and respiratory function after epidural injection of morphine or morphine combined with naloxone.
+
+Secondary end-points were the incidence and the side effects (pruritus, nausea, vomiting, and urinary retention) of neuraxial injection of morphine or morphine combined with naloxone for 14 days after each epidural injection.
+
+Results: There was no significant difference between morphine and morphine combined with naloxone on mean peripheral capillary oxygen saturation (SpO2m), the lowest peripheral capillary oxygen saturation (SpO2), and the respiratory disturbance index (RDI). Morphine combined with naloxone seemed to decrease pain more than morphine alone, but the result was not significant (p=0.2116). In the group that received morphine and naloxone, pain decreased sooner by half from baseline pain (at day 2 versus at day 6) than the other group. Vomiting, pruritus, and urinary retention were seen with no significant difference in both groups.
+
+Conclusion: We conclude that epidural administration of naloxone can preserve the analgesic effect of morphine in treatment of chronic LBP. Naloxone does not have any effects on respiratory function. It reduces itching, nausea, and pruritus after epidural injection of morphine. We cannot be certain whether this is the ideal dose or whether any changes in the doses might produce fewer side effects without interfering with analgesia.

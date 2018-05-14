@@ -1,0 +1,7 @@
+A Bayesian System to Detect and Characterize Overlapping Outbreaks
+
+Abstract
+Outbreaks of infectious diseases such as influenza are a significant threat to human health. Because there are different strains of influenza which can cause independent outbreaks, and influenza can affect demographic groups at different rates and times, there is a need to recognize and characterize multiple outbreaks of influenza. This paper describes a Bayesian system that uses data from emergency department patient care reports to create epidemiological models of overlapping outbreaks of influenza. Clinical findings are extracted from patient care reports using natural language processing. These findings are analyzed by a case detection system to create disease likelihoods that are passed to a multiple outbreak detection system. We evaluated the system using real and simulated outbreaks. The results show that this approach can recognize and characterize overlapping outbreaks of influenza. We describe several extensions that appear promising.
+
+
+

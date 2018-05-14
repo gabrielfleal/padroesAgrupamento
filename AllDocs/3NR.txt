@@ -1,0 +1,4 @@
+MAGNAMWAR: An R package for genome-wide association studies of bacterial orthologs.
+Summary: Here we report on an R package for genome-wide association studies oforthologous genes in bacteria. Before using the software, orthologs frombacterial genomes or metagenomes are defined using local or onlineimplementations of OrthoMCL. These presence-absence patterns are statisticallyassociated with variation in user-collected phenotypes using the Mono-Associated GNotobiotic Animals Metagenome-Wide Association R package (MAGNAMWAR).Genotype-phenotype associations can be performed with several differentstatistical tests based on the type and distribution of the data.
+Availability and implementation: MAGNAMWAR is available on CRAN.
+Contact: john_chaston@byu.edu.

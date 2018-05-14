@@ -1,0 +1,14 @@
+Vasoactive intestinal peptide alleviates osteoarthritis effectively via inhibiting NF-?B signaling pathway
+
+Abstract
+Background
+To investigate the treatment effect of vasoactive intestinal peptide (VIP) on osteoarthritis (OA) and the relative mechanism.
+
+Method
+The OA model on the SD rat knee was established using the modified Hulth method, and the recombinant pcDNA3.1+/VIP plasmid was constructed. One month after the plasmids VIP were injected intra-articularly into the right knee joint of OA and sham-operated rats, the pathological changes of the OA knee joint were observed by Hematoxylin-eosin (HE) and Safranin O/fast green staining. The levels of VIP and serum inflammatory cytokines (TNF-a, IL-2 and IL-4) were measured by ELISA kits. Meanwhile, synoviocytes isolated from OA rat and sham-operated rat were cultured in vitro, and transfected with the VIP plasmid. The proliferation of synoviocytes was determined using BrdU kits. The protein expressions of TNF-a, IL-2, CollagenII, osteoprotegerin (OPG), matrix-degrading enzymes (MMP-13, ADAMTS-5), and the related protein of NF-?B signaling pathway (phosphorylated p65, phosphorylated I?Ba) were evaluated by western blot.
+
+Results
+The VIP plasmid could effectively improve the pathological state of the OA rats knee joint, significantly decrease the levels of serum TNF-a and IL-2, and clearly increase the levels of VIP and serum IL-4. At the same time, after the OA synoviocytes were treated with the VIP plasmid, the proliferation ability of OA synoviocytes was reduced, the protein expressions of Collagen II and OPG were remarkably up-regulated, and the protein expressions of TNF-a, IL-2, MMP-13 and ADAMTS-5 were significantly down-regulated. In addition, the p-p65 expression decreased and p-I?Ba expression increased.
+
+Conclusion
+Osteoarthritis was effectively treated by VIP via inhibiting the NF-?B signaling pathway.

@@ -1,0 +1,14 @@
+Differential regulations of fibronectin and laminin in Smad2 activation in vascular endothelial cells in response to disturbed flow
+
+Abstract
+Background
+Atherosclerosis occurs in arterial curvatures and branches, where the flow is disturbed with low and oscillatory shear stress (OSS). The remodeling and alterations of extracellular matrices (ECMs) and their composition is the critical step in atherogenesis. In this study, we investigated the effects of different ECM proteins on the regulation of mechanotransduction in vascular endothelial cells (ECs) in response to OSS.
+
+Methods
+Through the experiments ranging from in vitro cell culture studies on effects of OSS on molecular signaling to in vivo examinations on clinical specimens from patients with coronary artery disease (CAD), we elucidated the roles of integrins and different ECMs, i.e., fibronectin (FN) and laminin (LM), in transforming growth factor (TGF)-ß receptor (TßR)-mediated Smad2 activation and nuclear factor-?B (NF-?B) signaling in ECs in response to OSS and hence atherogenesis.
+
+Results
+OSS at 0.5±12 dynes/cm2 induces sustained increases in the association of types I and II TßRs with ß1 and ß3 integrins in ECs grown on FN, but it only transient increases in ECs grown on LM. OSS induces a sustained activation of Smad2 in ECs on FN, but only a transient activation of Smad2 in ECs on LM. OSS-activation of Smad2 in ECs on FN regulates downstream NF-?B signaling and pro-inflammatory gene expression through the activation of ß1 integrin and its association with TßRs. In contrast, OSS induces transient activations of ß1 and ß3 integrins in ECs on LM, which associate with type I TßR to regulate Smad2 phosphorylation, resulting in transient induction of NF-?B and pro-inflammatory gene expression. In vivo investigations on diseased human coronary arteries from CAD patients revealed that Smad2 is highly activated in ECs of atherosclerotic lesions, which is accompanied by the concomitant increase of FN rather than LM in the EC layer and neointimal region of atherosclerotic lesions.
+
+Conclusions
+Our findings provide new insights into the mechanisms of how OSS regulates Smad2 signaling and pro-inflammatory genes through the complex signaling networks of integrins, TßRs, and ECMs, thus illustrating the molecular basis of regional pro-inflammatory activation within disturbed flow regions in the arterial tree.

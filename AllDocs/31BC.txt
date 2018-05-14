@@ -1,0 +1,14 @@
+Role of neuronal nitric oxide synthase (nNOS) at medulla in tachycardia induced by repeated administration of ethanol in conscious rats
+
+Abstract
+Background
+Intake of ethanol (alcohol) has been shown to influence cardiovascular function; the underlying brain mechanism remains unclear. Noting that nitric oxide (NO) system in the CNS is involved in the regulation of cardiovascular function, the present study examined the role of NO in medulla in ethanol-induced cardiovascular changes.
+
+Methods
+Ethanol was administered by oral gavage at dose of 3.2 g/kg once every day for 8 consecutive days. Changes in blood pressure (BP) and heart rate (HR) in response to ethanol were measured by radiotelemetry method in freely moving female Sprague-Dawley rats. NO modulators were applied by intracerebroventricular (ICV) injection. The protein levels of nitric oxide synthase (NOS) and NO content in rostroventral medulla were measured by Western blot and nitrate/nitrite colorimetric assay kit, respectively.
+
+Results
+Ethanol intake had little effects on basal BP and HR following 8 consecutive day treatments. A significant increase in HR but not BP following ethanol intake was observed at 6th and 8th, but not at 1st and 4th day treatments as compared with saline group. A decrease in the protein expression of neuronal NOS (nNOS) but not inducible NOS or endothelial NOS and a decline in the level of NO in the medulla 30 min after ethanol administration was observed at 8th day treatment. ICV treatment with NO donors attenuated ethanol-induced tachycardia effects at 8th day treatment. Ethanol produced significantly tachycardia responses when ICV nNOS inhibitors were given at 1st day treatment.
+
+Conclusion
+Our results suggest that medulla nNOS/NO pathways play an important role in ethanol regulation of HR.

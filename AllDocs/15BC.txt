@@ -1,0 +1,14 @@
+Adiponectin and adiponectin receptor 1 overexpression enhance inflammatory bowel disease
+
+Abstract
+Background
+Adiponectin (ADN) is an adipokine derived from adipocytes. It binds to adiponectin receptor 1 and 2 (AdipoR1 and R2) to exert its function in regulating whole-body energy homeostasis and inflammatory responses. However, the role of ADN-AdipoR1 signaling in intestinal inflammation is controversial, and its role in the regulation of neutrophils is still unclear. Our goal was to clarify the role of AdipoR1 signaling in colitis and the effects on neutrophils.
+
+Methods
+We generated porcine AdipoR1 transgenic mice (pAdipoR1 mice) and induced murine colitis using dextran sulfate sodium (DSS) to study the potential role of AdipoR1 in inflammatory bowel disease. We also treated a THP-1 macrophage and a HT-29 colon epithelial cell line with ADN recombinant protein to study the effects of ADN on inflammation.
+
+Results
+After inducing murine colitis, pAdipoR1 mice developed more severe symptoms than wild-type (WT) mice. Treatment with ADN increased the expression of pro-inflammatory factors in THP-1 and HT-29 cells. Moreover, we also observed that the expression of cyclooxygenase2 (cox2), neutrophil chemokines (CXCL1, CXCL2 and CXCL5), and the infiltration of neutrophils were increased in the colon of pAdipoR1 mice.
+
+Conclusions
+Our study showed that ADN-AdipoR1 signaling exacerbated colonic inflammation through two possible mechanisms. First, ADN-AdipoR1 signaling increased pro-inflammatory factors. Second, AdipoR1 enhanced neutrophil chemokine expression and recruited neutrophils into the colonic tissue to increase inflammation.

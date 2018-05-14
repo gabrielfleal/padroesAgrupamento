@@ -1,0 +1,14 @@
+MicroRNA-365 alleviates morphine analgesic tolerance via the inactivation of the ERK/CREB signaling pathway by negatively targeting ß-arrestin2
+
+Abstract
+Background
+Morphine is widely used in clinical practice for a class of analgesic drugs, long-term use of morphine will cause the action of tolerance. MicroRNAs have been reported to be involved in morphine analgesic tolerance..
+
+Methods
+Forty male SD rats were selected and randomly divided into 5 groups: the control group, morphine tolerance group, miR-365 mimic + morphine (miR-365 mimic) group, miR-365 inhibitor + morphine (miR-365 inhibitor) group and miR-365 negative control (NC)?+?morphine (miR-365 NC) group. After the administration of morphine at 0 d, 1 d, 3 d, 5 d and 7 d, behavioral testing was performed. A dual luciferase reporter gene assay was performed to confirm the relationship between miR-365 and ß-arrestin2, RT-qPCR was used to detect miR-365, ß-arrestin2, ERK and CREB mRNA expressions, western blotting was used to evaluate the protein expressions of ß-arrestin2, ERK, p-ERK, CREB and p-CREB, ELISA was used to detect the contents of IL-1ß, TNF-a and IL-18, while immunofluorescence staining was used to measure the GFAP expression. Intrathecal injection of mir365 significantly increased the maximal possible analgesic effect (%MPE) in morphine tolerant rats. ß-arrestin2 was the target gene of miR-365.
+
+Results
+The results obtained showed that when compared with the morphine tolerance group, there was an increase in miR-365 expression and a decrease in the ß-arrestin2, ERK, CREB protein expressions, contents of IL-1ß, TNF-a, IL-18 and GFAP expression in the miR-365 mimic group, while the miR-365 inhibitor group displayed an opposite trend.
+
+Conclusions
+The results of this experiment suggest that by targeting ß-arrestin2 to reduce the contents of IL-1ß, TNF-a and IL-18 and by inhibiting the activation of ERK/CREB signaling pathway, miR-365 could lower morphine analgesic tolerance.

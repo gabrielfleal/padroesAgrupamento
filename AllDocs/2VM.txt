@@ -1,0 +1,10 @@
+Using Scenarios and Personas to Enhance the Effectiveness of Heuristic Usability Evaluations for Older Adults and Their Care Team
+
+OBJECTIVE: Using heuristics to evaluate user experience is a common methodology for human-computer interaction studies. One challenge of this method is the inability to tailor results towards specific end-user needs. This manuscript reports on a method that uses validated scenarios and personas of older adults and care team members to enhance heuristics evaluations of the usability of commercially available personal health records for homebound older adults.
+
+MATERIALS AND METHODS: Our work extends the Chisnell and Redish heuristic evaluation methodology by using a protocol that relies on multiple expert reviews of each system. It further standardizes the heuristic evaluation process through the incorporation of task-based scenarios.
+
+RESULTS: We were able to use the modified version of the Chisnell and Redish heuristic evaluation methodology to identify potential usability challenges of two commercially available personal health record systems. This allowed us to: (1) identify potential usability challenges for specific types of users, (2) describe improvements that would be valuable to all end-users of the system, and (3) better understand how the interactions of different users may vary within a single personal health record.
+
+CONCLUSIONS: The methodology described in this paper may help designers of consumer health information technology tools, such as personal health records, understand the needs of diverse end-user populations. Such methods may be particularly helpful when designing systems for populations that are difficult to recruit for end-user evaluations through traditional methods.
+

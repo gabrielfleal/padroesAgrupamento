@@ -1,0 +1,14 @@
+MEKK1, JNK, and SMAD3 mediate CXCL12-stimulated connective tissue growth factor expression in human lung fibroblasts
+
+Abstract
+Background
+In idiopathic pulmonary fibrosis, the interaction of CXCL12 and CXC receptor 4 (CXCR4) plays a critical role in lung fibrosis. Connective tissue growth factor (CTGF) overexpression underlies the development of pulmonary fibrosis. Our previous report showed that the Rac1-dependent extracellular signal-regulated kinase (ERK), c-Jun N-terminal kinase (JNK), and activator protein (AP)-1 pathways are involved in CXCL12-generated CTGF expression in human lung fibroblasts (WI-38). In present study, we additionally inspected the involvement of mitogen-activated protein kinase kinase kinase 1 (MEKK1)/JNK-dependent SMAD3 in CXCL12-triggered CTGF expression in WI-38 cells.
+
+Methods
+WI-38 cells were stimulated with CXCL12 in the absence or presence of specific inhibitors or small interfering RNAs (siRNAs). CTGF expression and signaling transduction molecules were assessed by Western blot, luciferase activity assay, or ChIP assay.
+
+Results
+CXCL-12-induced CTGF expression was attenuated by SIS3 (a SMAD3 inhibitor) and SMAD3 siRNA, but not by SB431542 (an activin receptor-like kinase 5, ALK5, inhibitor). CXCL12-stimulated CTGF expression was also attenuated by MEKK1 siRNA. Treatment of cells with CXCL12 caused an increase in SMAD3 phosphorylation at Ser208, translocation to nuclei, SMAD3-luciferase activity, and recruitment of SMAD3 to the CTGF promoter. Stimulation of cells with CXCL12 resulted in increase in JNK phosphorylation at Thr183/Tyr185 and MEKK1 phosphorylation at Thr261. Moreover, CXCL12-mediated SMAD3 phosphorylation or SMAD3-luciferase activity was inhibited by MEKK1 siRNA or SP600125. Finally, CXCL12-mediated JNK phosphorylation was attenuated by MEKK1 siRNA.
+
+Conclusion
+In conclusion, results of this study suggest that CXCL12 activates the MEKK1/JNK signaling pathway, which in turn initiates SMAD3 phosphorylation, its translocation to nuclei, and recruitment of SMAD3 to the CTGF promoter, which ultimately induces CTGF expression in human lung fibroblasts.

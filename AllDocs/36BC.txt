@@ -1,0 +1,14 @@
+LncRNA DANCR involved osteolysis after total hip arthroplasty by regulating FOXO1 expression to inhibit osteoblast differentiation
+
+Abstract
+Background
+Aseptic loosening of artificial hip joint is a major complication affecting the long-term use of the artificial hip joint, and is the main cause of joint replacement failure. However, the mechanism of aseptic loosening of THR has not yet cleared. The aim of this study was to investigate the underlying mechanism of DANCR in osteoblast differentiation (OD).
+
+Methods
+We detected the expressions of DANCR and FOXO1 in clinical samples and mesenchymal stem cells (MSCs) by qRT-PCR and western blotting. The effects of polymethylmethacrylate (PMMA) on OD of MSCs were examined by alkaline phosphatase (ALP) activity and Alizarin Red S (ARS) staining. The expressions of OD markers were measured by qRT-PCR and western blotting. The mechanism of DANCR in OD was detected by RNA pull-down, RNA immunoprecipitation (RIP) assay and ubiquitination assays.
+
+Results
+Compared with the surrounding normal tissues, DANCR expression was up-regulated and FOXO1 expression was down-regulated in periprosthetic tissues. PMMA suppressed ALP activity, increased DANCR expression, and decreased the expressions of FOXO1, Runx2, Osterix (Ostx) and osteocalcin (OCN). ARS staining showed that PMMA inhibited the OD of MSCs. Knockdown of DANCR attenuated the inhibitory effect of PMMA on OD. Knockdown of FOXO1 could reverse the effect of si-DANC. RNA pull-down and RIP assay implicated that DANCR bound to FOXO1. Ubiquitination assay indicated that si-DANCR could repress Skp2-mediated ubiquitination of FOXO1.
+
+Conclusion
+LncRNA DANCR could inhibit OD by regulating FOXO1 expression.

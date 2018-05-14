@@ -1,0 +1,14 @@
+The chondroitin sulfate moiety mediates thrombomodulin-enhanced adhesion and migration of vascular smooth muscle cells
+
+Abstract
+Background
+Thrombomodulin (TM), a transmembrane glycoprotein highly expressed in endothelial cells (ECs), is a potent anticoagulant maintaining circulation homeostasis. Under inflammatory states, TM expression is drastically reduced in ECs while vascular smooth muscle cells (VSMCs) show a robust expression of TM. The functional role of TM in VSMCs remains elusive.
+
+Methods
+We examined the role of TM in VSMCs activities in human aortic VSMCs stimulated with platelet-derived growth factor-BB (PDGF-BB). Using rat embryonic aorta-derived A7r5 VSMCs which do not express TM, the role of the chondroitin sulfate (CS) moiety of TM in VSMCs was delineated with cells expressing wild-type TM and the CS-devoid TM mutant.
+
+Results
+Expression of TM enhanced cell migration and adhesion/spreading onto type I collagen, but had no effect on cell proliferation. Knocking down TM with short hairpin RNA reduced PDGF-stimulated adhesion and migration of human aortic VSMCs. In A7r5 cells, TM-mediated cell adhesion was eradicated by pretreatment with chondroitinase ABC which degrades CS moiety. Furthermore, the TM mutant (TMS490, 492A) devoid of CS moiety failed to increase cell adhesion, spreading or migration. Wild-type TM, but not TMS490, 492A, increased focal adhesion kinase (FAK) activation during cell adhesion, and TM-enhanced cell migration was abolished by a function-blocking anti-integrin ß1 antibody.
+
+Conclusion
+Chondroitin sulfate modification is required for TM-mediated activation of ß1-integrin and FAK, thereby enhancing adhesion and migration activity of VSMCs.

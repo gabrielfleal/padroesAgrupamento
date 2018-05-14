@@ -1,0 +1,14 @@
+A novel role of ER stress signal transducer ATF6 in regulating enterovirus A71 viral protein stability
+
+Abstract
+Background
+Due to limited coding capacity of viral genome, enterovirus A71 (EV-A71) co-opts host nuclear proteins for its replication. Upon ER stress, the ER-localized 90 kDa activating transcription factor 6 (p90ATF6) is proteolytically cleaved to produce the transcriptionally active amino-terminal 50 kDa (p50ATF6) product where it enters the nucleus to activate a subset of unfolded protein response and ER-associated degradation (also known as ERAD) genes. During EV-A71 infection, however, this p50ATF6 product was not detected in the nucleus, and its downstream target genes were not activated.
+
+Methods
+We examined the role of ATF6 during EV-A71 infection, including its cleavage process and its role in viral life cycle by silencing or overexpressing ATF6.
+
+Results
+We showed that a potential cleavage in the middle of p90ATF6 produced an amino-terminal ~?45 kDa fragment in a viral protease-independent but EV-A71-dependent manner. The disappearance of ATF6 was not restricted to a specific strain of EV-A71 or cell type, and was not simply caused by picornavirus-mediated global translational shutoff. This cleavage of ATF6, which was most likely mediated by the host response, was nevertheless independent of both cellular caspases and XBP1-associated proteasomes. The silencing of ATF6 expression by small interfering RNA suppressed viral titers due to reduced viral protein stability. This effect was markedly restored by the ectopic expression of p90ATF6.
+
+Conclusion
+Our findings indicate that ATF6 plays a distinct role in viral protein stability and that the host uses different cleavage strategies, rather than conventional cleavage by generating p50ATF6, to combat viral infection.

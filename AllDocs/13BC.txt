@@ -1,0 +1,14 @@
+ß-aminoisobutyric acid attenuates LPS-induced inflammation and insulin resistance in adipocytes through AMPK-mediated pathway
+
+Abstract
+Background
+ß-aminoisobutyric acid (BAIBA) is produced in skeletal muscle during exercise and has beneficial effects on obesity-related metabolic disorders such as diabetes and non-alcoholic fatty liver disease. Thus, it is supposed to prevent high fat diet (HFD)-induced inflammation and insulin resistance in adipose tissue though anti-inflammatory effects in obesity. Previous reports have also demonstrated strong anti-inflammatory effects of BAIBA.
+
+Methods
+We used BAIBA treated fully differentiated 3T3T-L1 mouse adipocytes to investigate the effects of exogenous BAIBA on inflammation and insulin signaling in adipocytes. Insulin signaling-mediated proteins and inflammation markers were measured by Western blot analysis. Secretion of pro-inflammatory cytokines were measured by ELISA. Lipid accumulation in differentiated 3 T3-L1 cells was stained by Oil red-O. Statistical analysis was performed by ANOVA and student’s t test.
+
+Results
+BAIBA treatment suppressed adipogenesis assessed by adipogenic markers as well as lipid accumulation after full differentiation. We showed that BAIBA treatment stimulated AMP-activated protein kinase (AMPK) phosphorylation in a dose-dependent manner and lipopolysaccharide (LPS)-induced secretion of pro-inflammatory cytokines such as TNFa and MCP-1 was abrogated in BAIBA-treated 3 T3-L1 cells. Treatment of 3 T3-L1 cells with BAIBA reduced LPS-induced NF?B and I?B phosphorylation. Furthermore, BAIBA treatment ameliorated LPS-induced impairment of insulin signaling measured by IRS-1 and Akt phosphorylation and fatty acid oxidation. Suppression of AMPK by small interfering (si) RNA significantly restored these changes.
+
+Conclusions
+We demonstrated anti-inflammatory and anti-insulin resistance effects of BAIBA in differentiated 3 T3-L1 cells treated with LPS through AMPK-dependent signaling. These results provide evidence for the beneficial effects of BAIBA not only in liver and skeletal muscle cells but also in adipose tissue.

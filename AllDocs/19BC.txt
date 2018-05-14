@@ -1,0 +1,11 @@
+Molecular mechanisms underlying therapeutic potential of pericytes
+
+Abstract
+Background
+Pericytes are multipotent cells present in every vascularized tissue in the body. Despite the fact that they are well-known for more than a century, pericytes are still representing cells with intriguing properties. This is mainly because of their heterogeneity in terms of definition, tissue distribution, origin, phenotype and multi-functional properties. The body of knowledge illustrates importance of pericytes in the regulation of homeostatic and healing processes in the body.
+
+Main body
+In this review, we summarized current knowledge regarding identification, isolation, ontogeny and functional characteristics of pericytes and described molecular mechanisms involved in the crosstalk between pericytes and endothelial or immune cells. We highlighted the role of pericytes in the pathogenesis of fibrosis, diabetes-related complications (retinopathy, nephropathy, neuropathy and erectile dysfunction), ischemic organ failure, pulmonary hypertension, Alzheimer disease, tumor growth and metastasis with the focus on their therapeutic potential in the regenerative medicine. The functions and capabilities of pericytes are impressive and, as yet, incompletely understood. Molecular mechanisms responsible for pericyte-mediated regulation of vascular stability, angiogenesis and blood flow are well described while their regenerative and immunomodulatory characteristics are still not completely revealed. Strong evidence for pericytes’ participation in physiological, as well as in pathological conditions reveals a broad potential for their therapeutic use. Recently published results obtained in animal studies showed that transplantation of pericytes could positively influence the healing of bone, muscle and skin and could support revascularization. However, the differences in their phenotype and function as well as the lack of standardized procedure for their isolation and characterization limit their use in clinical trials.
+
+Conclusion
+Critical to further progress in clinical application of pericytes will be identification of tissue specific pericyte phenotype and function, validation and standardization of the procedure for their isolation that will enable establishment of precise clinical settings in which pericyte-based therapy will be efficiently applied.

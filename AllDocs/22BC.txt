@@ -1,0 +1,14 @@
+Long non-coding RNA Gas5 regulates proliferation and apoptosis in HCS-2/8 cells and growth plate chondrocytes by controlling FGF1 expression via miR-21 regulation
+
+Abstract
+Background
+LncRNA Gas5 is known to be a key control element during growth, differentiation and development in mammalian species. However, the role and function of Gas5 in growth plate chondrocytes has not been determined.
+
+Methods
+The overexpression and knockdown models of Gas5 and miR-21 in cells and animals were constructed. Cell survival was determined by MTT assay and flow cytometry. Animal biochemical indices were measured by enzyme-linked immunosorbent assay, hematoxylin/eosin staining, immunohistochemistry or in situ hybridisation. Dual luciferase reporter gene assay was carried out to study targeting.
+
+Results
+First, we found the expression levels of fibroblast growth factor 1(FGF1) were up-regulated and miR-21 were down-regulated in Gas5 overexpressing model cells. Meanwhile, the expression levels of FGF1 and Gas5 were up-regulated in miR-21 knockdown model cells. Furthermore, cell proliferation was significantly promoted after Gas5 knockdown or miR-21 overexpression. Subsequently, Gas5 promoted apoptosis, while miR-21 suppressed apoptosis. Animal assays demonstrated that both Gas5 and dexamethasone suppressed proliferation and promoted apoptosis of growth plate chondrocytes, up-regulated FGF1 expression but reduced miR-21 expression. Finally, there was a binding relationship between Gas5, miR-21 and FGF1.
+
+Conclusion
+We concluded that Gas5 regulated proliferation and apoptosis in growth plate by controlling FGF1 expression via miR-21 regulation.

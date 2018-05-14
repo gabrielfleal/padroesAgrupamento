@@ -1,0 +1,14 @@
+H19 knockdown suppresses proliferation and induces apoptosis by regulating miR-148b/WNT/ß-catenin in ox-LDL -stimulated vascular smooth muscle cells
+
+Abstract
+Background
+Long non-coding RNAs (lncRNAs) have been identified as critical regulators in the development of atherosclerosis (AS). Here, we focused on discussing roles and molecular mechanisms of lncRNA H19 in vascular smooth muscle cells (VSMCs) progression.
+
+Methods
+RT-qPCR assay was used to detect the expression patterns of H19 and miR-148b in clinical samples and cells. Cell proliferative ability was evaluated by CCK-8 and colony formation assays. Cell apoptotic capacity was assessed by apoptotic cell percentage and the caspase-3 activity. Bioinformatics analysis, luciferase and RNA immunoprecipitation (RIP) assays were employed to demonstrate cell percentage and the relationship among H19, miR-148b and wnt family member 1 (WNT1). Western blot assay was performed to determine expressions of proliferating cell nuclear antigen (PCNA), ki-67, Bax, Bcl-2, WNT1, ß-catenin, C-myc and E-cadherin.
+
+Results
+The level of H19 was increased and miR-148b expression was decreased in human AS patient serums and oxidized low-density lipoprotein (ox-LDL)-stimulated human aorta vascular smooth muscle cells (HA-VSMCs). H19 knockdown suppressed proliferation and promoted apoptosis in HA-VSMCs following the treatment of ox-LDL. H19 inhibited miR-148b expression by direct interaction. Moreover, miR-148b inhibitor could reverse the effects of H19 depletion on proliferation and apoptosis in ox-LDL-stimulated HA-VSMCs. Further mechanical explorations showed that WNT1 was a target of miR-148b and H19 acted as a competing endogenous RNA (ceRNA) of miR-148b to enhance WNT1 expression. Furthermore, miR-148 inhibitor exerted its pro-proliferation and anti-apoptosis effects through activating WNT/ß-catenin signaling in ox-LDL-stimulated HA-VSMCs.
+
+Conclusion
+H19 facilitated proliferation and inhibited apoptosis through modulating WNT/ß-catenin signaling pathway via miR-148b in ox-LDL-stimulated HA-VSMCs, implicating the potential values of H19 in AS therapy.

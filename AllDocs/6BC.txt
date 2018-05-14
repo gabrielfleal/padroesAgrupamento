@@ -1,0 +1,14 @@
+Functional domains of SP110 that modulate its transcriptional regulatory function and cellular translocation
+
+Abstract
+Background
+SP110, an interferon-induced nuclear protein, belongs to the SP100/SP140 protein family. Very recently, we showed that SP110b, an SP110 isoform, controls host innate immunity to Mycobacterium tuberculosis infection by regulating nuclear factor-?B (NF-?B) activity. However, it remains unclear how the structure of SP110 relates to its cellular functions. In this study, we provide experimental data illustrating the protein domains that are responsible for its functions.
+
+Methods
+We examined the effects of SP110 isoforms and a series of deletion mutants of SP110 on transcriptional regulation by luciferase reporter assays. We also employed confocal microscopy to determine the cellular distributions of enhanced green fluorescent protein-tagged SP110 isoforms and SP110 mutants. In addition, we performed immunoprecipitation and Western blotting analyses to identify the regions of SP110 that are responsible for protein interactions.
+
+Results
+Using reporter assays, we first demonstrated that SP110 isoforms have different regulatory effects on NF-?B-mediated transcription, supporting the notion that SP110 isoforms may have distinct cellular functions. Analysis of deletion mutants of SP110 showed that the interaction of the N-terminal fragment (amino acids 1–276) of SP110 with p50, a subunit of NF-?B, in the cytoplasm plays a crucial role in the down-regulation of the p50-driven tumor necrosis factor-a (TNFa) promoter activity in the nucleus, while the middle and C-terminal regions of SP110 localize it to various cellular compartments. Surprisingly, a nucleolar localization signal (NoLS) that contains one monopartite nuclear localization signal (NLS) and one bipartite NLS was identified in the middle region of SP110. The identification of a cryptic NoLS in the SP110 suggests that although this protein forms nuclear speckles in the nucleoplasm, it may be directed into the nucleolus to carry out distinct functions under certain cellular conditions.
+
+Conclusions
+The findings from this study elucidating the multidomain structure of the SP110 not only identify functional domains of SP110 that are required for transcriptional regulation, cellular translocation, and protein interactions but also implicate that SP110 has additional functions through its unexpected activity in the nucleolus.

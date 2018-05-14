@@ -1,0 +1,14 @@
+Identification of danthron as an isoform-specific inhibitor of HEME OXYGENASE-1/cytochrome P450 reductase interaction with anti-tumor activity
+
+Abstract
+Background
+Heme oxygenase (HO) catalyzes NADPH-dependent degradation of heme to liberate iron, carbon monoxide and biliverdin. The interaction between HO and cytochrome P450 reductase (CPR), an electron donor, is essential for HO activity. HO-1 is a stress-inducible isoform whereas HO-2 is constitutively expressed. HO-1 induction is commonly seen in cancers and impacts disease progression, supporting the possibility of targeting HO-1 for cancer therapy.
+
+Methods
+We employed a cell-based bioluminescence resonance energy transfer assay to screen compounds with ability to inhibit HO-1/CPR interaction. The effect of the identified compound on HO-1/CPR interaction was confirmed by pull down assay. Moreover, the anti-tumorigenic activity of the identified compound on HO-1-enhanced tumor growth and migration was assessed by trypan blue exclusion method and wound healing assay.
+
+Results
+Danthron was identified as an effective small molecule able to interfere with the interaction between HO-1 and CPR but not HO-2 and CPR. Additional experiments with structural analogues of danthron revealed that the positions of hydroxyl moieties significantly affected the potency of inhibition on HO-1/CPR interaction. Pull-down assay confirmed that danthron inhibited the interaction of CPR with HO-1 but not HO-2. Danthron suppressed growth and migration of HeLa cells with stable HO-1 overexpression but not mock cells. In contrast, anthrarufin, a structural analog with no ability to interfere HO-1/CPR interaction, exhibited no significant effect on HO-1-overexpressing HeLa cells.
+
+Conclusions
+These findings demonstrate that danthron is an isoform-specific inhibitor for HO-1/CPR interaction and may serve as a lead compound for novel anticancer drug.

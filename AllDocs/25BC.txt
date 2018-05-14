@@ -1,0 +1,14 @@
+Comparative genomic analysis of ten clinical Streptococcus pneumoniae collected from a Malaysian hospital reveal 31 new unique drug-resistant SNPs using whole genome sequencing
+
+Abstract
+Background
+Streptococcus pneumoniae or pneumococcus is a leading cause of morbidity and mortality worldwide, specifically in relation to community-acquired pneumonia. Due to the overuse of antibiotics, S. pneumoniae has developed a high degree of resistance to a wide range of antibacterial drugs.
+
+Methods
+In this study, whole genome sequencing (WGS) was performed for 10 clinical strains of S. pneumoniae with different levels of sensitivity to standard antibiotics. The main objective was to investigate genetic changes associated with antibiotic resistance in S. pneumoniae.
+
+Results
+Our results showed that resistant isolates contain a higher number of non-synonymous single nucleotide polymorphisms (SNPs) as compared to susceptible isolates. We were able to identify SNPs that alter a single amino acid in many genes involved in virulence and capsular polysaccharide synthesis. In addition, 90 SNPs were only presented in the resistant isolates, and 31 SNPs were unique and had not been previously reported, suggesting that these unique SNPs could play a key role in altering the level of resistance to different antibiotics.
+
+Conclusion
+Whole genome sequencing is a powerful tool for comparing the full genome of multiple isolates, especially those closely related, and for analysing the variations found within antibiotic resistance genes that lead to differences in antibiotic sensitivity. We were able to identify specific mutations within virulence genes related to resistant isolates. These findings could provide insights into understanding the role of single nucleotide mutants in conferring drug resistance.

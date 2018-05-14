@@ -1,0 +1,5 @@
+biospear: an R package for biomarker selection in penalized Cox regression.
+Summary: The R package biospear allows selecting the biomarkers with thestrongest impact on survival and on the treatment effect in high-dimensional Cox models, and estimating expected survival probabilities. Most of the implementedapproaches are based on penalized regression techniques.
+Availability and implementation: The package is available on the CRAN.(https://CRAN.R-project.org/package=biospear).
+Contact: stefan.michiels@gustaveroussy.fr.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

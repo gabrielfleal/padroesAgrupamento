@@ -1,0 +1,6 @@
+pyHVis3D: Visualising Molecular Simulation deduced H-bond networks in 3D:Application to T-cell receptor interactions.
+Motivation: Hydrogen bonds (H-bonds) play an essential role for many molecularinteractions but are also often transient, making visualizing them in a flexible system challenging.
+Results: We provide pyHVis3D which allows for an easy to interpret 3Dvisualisation of H-bonds resulting from molecular simulations. We demonstrate thepower of pyHVis3D by using it to explain the changes in experimentally measuredbinding affinities for three T-cell receptor/peptide/MHC complexes and mutants ofeach of these complexes.
+Availability: pyHVis3D can be downloaded for free fromhttp://opig.stats.ox.ac.uk/resources.
+Contact: science.bernhard.knapp@gmail.com.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

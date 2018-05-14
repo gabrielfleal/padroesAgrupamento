@@ -1,0 +1,4 @@
+Irys Extract.
+Summary: Irys Extract is a software tool for generating genomic information from data collected by the BioNano Genomics Irys platform. The tool allows the usereasy access to the raw data in the form of cropped images and genetically alignedintensity profiles. The latter are also made compatible with the BED format forusing with popular genomic browsers such as the UCSC Genome Browser.Availability and implementation: Irys Extract has been developed in MatlabR2015a, it was tested to work with IrysView 2.4.0.15879 and AutoDetect2.1.4.9159, and it currently runs under Microsoft Windows operating systems(7-10). Irys Extract can be downloaded alongside its manual and a demo dataset athttp://www.nanobiophotonix.com and https://sites.google.com/site/raniarielly/.
+Contact: uv@post.tau.ac.il.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

@@ -1,0 +1,6 @@
+Snaptron: querying splicing patterns across tens of thousands of RNA-seq samples.
+Motivation: As more and larger genomics studies appear, there is a growing needfor comprehensive and queryable cross-study summaries. These enable researchersto leverage vast datasets that would otherwise be difficult to obtain.
+Results: Snaptron is a search engine for summarized RNA sequencing data with aquery planner that leverages R-tree, B-tree and inverted indexing strategies torapidly execute queries over 146 million exon-exon splice junctions from over70?000 human RNA-seq samples. Queries can be tailored by constraining whichjunctions and samples to consider. Snaptron can score junctions according totissue specificity or other criteria, and can score samples according to therelative frequency of different splicing patterns. We describe the software andoutline biological questions that can be explored with Snaptron queries.
+Availability and implementation: Documentation is at http://snaptron.cs.jhu.edu. Source code is at https://github.com/ChristopherWilks/snaptron andhttps://github.com/ChristopherWilks/snaptron-experiments with a CC BY-NC 4.0license.
+Contact: chris.wilks@jhu.edu or langmea@cs.jhu.edu.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

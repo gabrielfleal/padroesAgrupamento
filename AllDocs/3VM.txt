@@ -1,0 +1,10 @@
+Finding Patients Using Similarity Measures in a Rare Diseases-Oriented Clinical Data Warehouse: Dr. Warehouse and the Needle in the Needle Stack
+
+OBJECTIVE: In the context of rare diseases, it may be helpful to detect patients with similar medical histories, diagnoses and outcomes from a large number of cases with automated methods. To reduce the time to find new cases, we developed a method to find similar patients given an index case leveraging data from the electronic health records.
+
+MATERIALS AND METHODS: We used the clinical data warehouse of a children academic hospital in Paris, France (Necker-Enfants Malades), containing about 400,000 patients. Our model was based on a vector space model (VSM) to compute the similarity distance between an index patient and all the patients of the data warehouse. The dimensions of the VSM were built upon Unified Medical Language System concepts extracted from clinical narratives stored in the clinical data warehouse. The VSM was enhanced using three parameters: a pertinence score (TF-IDF of the concepts), the polarity of the concept (negated/not negated) and the minimum number of concepts in common. We evaluated this model by displaying the most similar patients for five different rare diseases: Lowe Syndrome (LOWE), Dystrophic Epidermolysis Bullosa (DEB), Activated PI3K delta Syndrome (APDS), Rett Syndrome (RETT) and Dowling Meara (EBS-DM), from the clinical data warehouse representing 18, 103, 21, 84 and 7 patients respectively.
+
+RESULTS: The percentages of index patients returning at least one true positive similar patient in the Top30 similar patients were 94% for LOWE, 97% for DEB, 86% for APDS, 71% for EBS-DM and 99% for RETT. The mean number of patients with the exact same genetic diseases among the 30 returned patients was 51%.
+
+CONCLUSION: This tool offers new perspectives in a translational context to identify patients for genetic research. Moreover, when new molecular bases are discovered, our strategy will help to identify additional eligible patients for genetic screening.
+

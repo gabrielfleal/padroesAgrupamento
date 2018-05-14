@@ -1,0 +1,4 @@
+In silico structural modeling of multiple epigenetic marks on DNA.
+Availability and implementation: The code together with examples and tutorialsare available from http://www.cs.ox.ac.uk/mosaics.
+Contact: peter.minary@cs.ox.ac.uk.
+Supplementary information: Supplementary data are available at Bioinformaticsonline.

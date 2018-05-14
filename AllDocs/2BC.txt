@@ -1,0 +1,10 @@
+IL-20 bone diseases involvement and therapeutic target potentialAbstract
+
+Background
+Millions of people around the world suffer from bone disorders, likes osteoporosis, rheumatoid arthritis (RA), and cancer-induced osteolysis. In general, the bone remodeling balance is determined by osteoclasts and osteoblasts, respectively responsible for bone resorption and bone formation. Excessive inflammation disturbs the activities of these two kinds of cells, typically resulting in the bone loss.
+
+Main body
+IL-20 is emerging as a potent angiogenic, chemotactic, and proinflammatory cytokine related to several chronic inflammatory disorders likes psoriasis, atherosclerosis, cancer, liver fibrosis, and RA. IL-20 has an important role in the regulation of osteoclastogenesis and osteoblastogenesis and is upregulated in several bone-related diseases. The anti-IL-20 monoclonal antibody treatment has a therapeutic potential in several experimental disease models including ovariectomy-induced osteoporosis, cancer-induced osteolysis, and bone fracture.
+
+Conclusion
+This review article provides an overview describing the IL-20’s biological functions in the common bone disorders and thus providing a novel therapeutic strategy in the future.

@@ -1,0 +1,14 @@
+Novel microtubule inhibitor MPT0B098 inhibits hypoxia-induced epithelial-to-mesenchymal transition in head and neck squamous cell carcinoma
+
+Abstract
+Background
+Tumor hypoxia-induced epithelial–mesenchymal transition (EMT) is critical in promoting cancer metastasis. We recently discovered a novel microtubule inhibitor, MPT0B098, that employs a novel antitumor mechanism. It destabilizes hypoxia-inducible factor (HIF)-1a mRNA by blocking the function of human antigen R. Thus, we proposed that MPT0B098 modulates hypoxia-induced EMT.
+
+Methods
+In vitro IC50 values were determined through the methylene blue dye assay. To investigate molecular events, reverse transcriptase-polymerase chain reaction, Western blotting, immunofluorescence staining, and wound healing assay were employed.
+
+Results
+MPT0B098 significantly inhibited HIF-1a expression, epithelial-to-mesenchymal morphology changes, and migratory ability in the human head and neck squamous cell carcinoma cell line OEC-M1. Furthermore, after MPT0B098 treatment, the expression of two mesenchymal markers, vimentin and N-cadherin, was downregulated under hypoxic conditions. Moreover, MPT0B098 suppressed hypoxia-induced EMT in part by inhibiting EMT-activating transcription factors, Twist and SNAI2/Slug. In addition, the inhibition of hypoxia-induced F-actin rearrangement and focal adhesion kinase phosphorylation may have contributed to suppression of EMT by MPT0B098in OEC-M1 cells. MPT0B098 significantly inhibited transforming growth factor(TGF)-ß-induced phosphorylation of receptor-associated Smad2/3 by downregulating TGF-ß mRNA and protein expression.
+
+Conclusions
+Taken together, this study provides a novel insight into the role of MPT0B098 in inhibiting hypoxia-induced EMT, suggesting its potential use for treating head and neck cancers.

@@ -1,0 +1,10 @@
+Emerging roles of epithelial-mesenchymal transition in hematological malignanciesAbstract
+
+Background
+Epithelial-mesenchymal transition is an important process in embryonic development, fibrosis, and cancer metastasis. During the progression of epithelial cancer, activation of epithelial-mesenchymal transition is tightly associated with metastasis, stemness and drug resistance. However, the role of epithelial-mesenchymal transition in non-epithelial cancer is relatively unclear.
+
+Main body
+Epithelial-mesenchymal transition transcription factors are critical in both myeloid and lymphoid development. Growing evidence indicates their roles in cancer cells to promote leukemia and lymphoma progression. The expression of epithelial-mesenchymal transition transcription factors can cause the differentiation of indolent type to the aggressive type of lymphoma. Their up-regulation confers cancer cells resistant to chemotherapy, tyrosine kinase inhibitors, and radiotherapy. Conversely, the down-regulation of epithelial-mesenchymal transition transcription factors, monoclonal antibodies, induce lymphoma cells apoptosis.
+
+Conclusions
+Epithelial-mesenchymal transition transcription factors are potentially important prognostic or predictive factors and treatment targets for leukemia and lymphoma.
